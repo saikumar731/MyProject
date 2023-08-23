@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F6BA-46AD
+
+ Directory of C:\Users\ACER\Desktop\MyProject
+
+23-08-2023  12.00 PM    <DIR>          .
+23-08-2023  11.55 AM    <DIR>          ..
+23-08-2023  12.00 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  175,680,151,552 bytes free
